@@ -7,4 +7,3 @@ O programa Blink é básico. Ele apenas retrata uma sequência contínua de ativ
   * 01 LED
   * Protobord
   * Fios para conexão
-!(.)[https://github.com/Pietropsp/Atividades/new/main/Blink/Blink]
